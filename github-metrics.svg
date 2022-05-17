@@ -355,7 +355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prisma/prisma</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (Preview)</div>
@@ -408,7 +408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Wechat-ggGitHub/Awesome-GitHub-Repo</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">收集整理 GitHub 上高质量、有趣的开源项目。</div>
@@ -455,7 +455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/ML-For-Beginners</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</div>
@@ -1116,7 +1116,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 May 2022, 17:07:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 17 May 2022, 18:06:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
