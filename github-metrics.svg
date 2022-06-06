@@ -355,7 +355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>changesets/changesets</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦋       A way to manage your versioning and changelogs with a focus on monorepos</div>
@@ -461,7 +461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pnpm/pnpm</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具</div>
@@ -1128,7 +1128,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jun 2022, 21:30:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 6 Jun 2022, 22:03:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
