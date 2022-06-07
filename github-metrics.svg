@@ -355,7 +355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>changesets/changesets</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦋       A way to manage your versioning and changelogs with a focus on monorepos</div>
@@ -408,7 +408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>evanw/esbuild</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extremely fast JavaScript and CSS bundler and minifier</div>
@@ -461,7 +461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pnpm/pnpm</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具</div>
@@ -514,7 +514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>date-fns/date-fns</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⏳ Modern JavaScript date utility library ⌛️</div>
@@ -1128,7 +1128,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jun 2022, 17:05:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 7 Jun 2022, 18:04:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
